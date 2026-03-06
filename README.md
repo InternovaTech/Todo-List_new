@@ -9,6 +9,7 @@
 
 ## Configuration
 
+
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
 | `apiKey` | string | `null` | Your API key for authentication |
