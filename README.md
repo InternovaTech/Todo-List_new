@@ -69,7 +69,6 @@ docs: update 94
 
 
 
-
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
 | `apiKey` | string | `null` | Your API key for authentication |
